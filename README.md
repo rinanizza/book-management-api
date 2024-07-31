@@ -247,10 +247,3 @@ If you would like to contribute to this project, please fork the repository and 
 
 
 
-
-
-
-
-
-Continue generating
-
