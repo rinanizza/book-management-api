@@ -8,6 +8,10 @@
     "dev": "ts-node src/index.ts",
     "test": "jest"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/rinanizza/book-management-api"
+	},
   "keywords": ["books", "API", "express", "mongoose", "file-upload", "nodejs"],
   "author": "Chinaza Catherine Asonye",
   "license": "ISC",
